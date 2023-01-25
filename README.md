@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thamires Pereira
 - ☘️ Pronouns: ela/dela (she/her)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me thamiresfrpereira@hotmail.com
 
  <div>
