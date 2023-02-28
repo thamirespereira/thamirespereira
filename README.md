@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Thamires Pereira
-- ☘️ Pronouns: ela/dela (she/her)
-- 🌱 I’m currently learning Java
-- 📫 How to reach me thamiresfrpereira2@gmail.com
+
 
  <div>
    <a href = "mailto:thamiresfrpereira2@gmail.com"><img src="https://img.icons8.com/arcade/64/null/gmail.png"/ target="_blank"></a>
