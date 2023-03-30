@@ -2,7 +2,7 @@
 
  <div>
    <a href = "mailto:thamiresfrpereira2@gmail.com"><img src="https://img.icons8.com/arcade/64/null/gmail.png"/ target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thamires-pereira-68b286220/" target="_blank"><img src="https://img.icons8.com/arcade/64/null/linkedin.png"/ target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thamirespereira-dev/" target="_blank"><img src="https://img.icons8.com/arcade/64/null/linkedin.png"/ target="_blank"></a> 
   <a href="https://thamirespereira.github.io/resume/" target="_blank"><img src="https://img.icons8.com/arcade/64/null/code-file.png"/ target="_blank"></a> 
  <br>
  
