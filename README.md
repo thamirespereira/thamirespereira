@@ -1,11 +1,8 @@
 
 
- <div align = center>
-   <a href = "mailto:thamiresfrpereira2@gmail.com"><img src="https://img.icons8.com/fluency/48/new-post.png"/ target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thamirespereira-dev/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/ target="_blank"></a> 
-  <a href="https://thamirespereira.github.io/resume/" target="_blank"><img src="https://img.icons8.com/fluency/48/document.png"/ target="_blank"></a> 
- </div>
- <br>
+ <h1 align = center>Olá, seja bem vinde!</h1>
+ 
+
 
  <div align = center>
   <a href="https://github.com/thamirespereira">
@@ -26,4 +23,11 @@
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
    
 </div>
- 
+ <br>
+
+ <div align = center>
+  <h2>Contato: </h2>
+   <a href = "mailto:thamiresfrpereira2@gmail.com"><img src="https://img.icons8.com/fluency/48/new-post.png"/ target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thamirespereira-dev/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/ target="_blank"></a> 
+  <a href="https://thamirespereira.github.io/resume/" target="_blank"><img src="https://img.icons8.com/fluency/48/document.png"/ target="_blank"></a> 
+ </div>
