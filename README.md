@@ -1,8 +1,8 @@
 
 
- <h1 align = center>Olá, seja bem vinde!</h1>
- 
-
+ <div align = center>
+ <img src"/home/thamires/projetos/thamirespereira/github-header-image (1).png"/>
+ </div>
 
  <div align = center>
   <a href="https://github.com/thamirespereira">
