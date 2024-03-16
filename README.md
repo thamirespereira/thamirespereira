@@ -1,7 +1,7 @@
 
 
 
- ![Header](https://raw.githubusercontent.com/thamirespereira/thamirespereira/main/github-header-image%20(1).png)
+ ![Header](https://github.com/thamirespereira/thamirespereira/blob/main/github-header-image%20(2).png?raw=true)
 
 
  <div align = left>
