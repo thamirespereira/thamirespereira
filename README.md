@@ -3,7 +3,7 @@
 
  ![Header](https://raw.githubusercontent.com/thamirespereira/thamirespereira/main/github-header-image%20(1).png)
 
-<h2></h2>
+
  <div align = left>
   <a href="https://github.com/thamirespereira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thamirespereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -35,7 +35,6 @@
 
  <div align = left>
   <h2>🔗Contact: </h2>
-   <a href = "mailto:thamiresfrpereira2@gmail.com"><img src="https://img.icons8.com/fluency/48/new-post.png"/ target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thamirespereira-dev/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/ target="_blank"></a> 
-  <a href="https://thamirespereira.github.io/resume/" target="_blank"><img src="https://img.icons8.com/fluency/48/document.png"/ target="_blank"></a> 
- </div>
+   <a href = "mailto:thamiresfrpereira2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/ target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thamirespereira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ target="_blank"></a> 
+ 
