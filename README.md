@@ -6,8 +6,9 @@
 
  <div align = left>
   <a href="https://github.com/thamirespereira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thamirespereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirespereira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thamirespereira&show_icons=true&theme=tokyonight"/>
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirespereira&layout=compact&langs_count=7&theme=radical"/>
  </div>
 
 <h2>🔗Technologies:</h2>
